@@ -5,17 +5,23 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 ---
 
 ## Skills and Tools
-- **Game Engine**: ![Unreal Engine](https://skillicons.dev/icons?i=unreal,godot,unity)
-- **Programming**: ![C++](https://skillicons.dev/icons?i=cpp,cs)
-- **Development Enviorments**: ![Unreal Engine](https://skillicons.dev/icons?i=rider,visualstudio,vscode)
-- **Version Control**: ![Github](https://skillicons.dev/icons?i=github)
-  <p align="center">
-    <h2>Version Control</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-- **Other**: Gameplay mechanics, game design, script writing
+- ### Game Engines:
+  
+  ![Unreal Engine](https://skillicons.dev/icons?i=unreal) ![Godot](https://skillicons.dev/icons?i=godot) ![Unity](https://skillicons.dev/icons?i=unity)
+
+- ### Programming Languages:
+
+  ![C++](https://skillicons.dev/icons?i=cpp,cs)
+  
+- ### Development Enviorments:
+
+  ![Unreal Engine](https://skillicons.dev/icons?i=rider,visualstudio,vscode)
+  
+- ### Version Control:
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Perforce](https://img.shields.io/badge/Perforce-404545?style=for-the-badge&logo=perforce&logoColor=white) ![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-5C4EE5?style=for-the-badge&logo=apachesubversion&logoColor=white)
+  
+- ### Other: Gameplay mechanics, game design, script writing
 
 ---
 
@@ -27,8 +33,9 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 ---
 
 ## Contact  
-- **LinkedIn**: ([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/hubert-staniszewski-303829301/))
-  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/hubert-staniszewski-303829301)
+[![LinkedIn](https://skillicons.dev/icons?i=gmail)](mailto:staniszewskihubert31@gmail.com)
+
 ---
 
 This profile is a work in progress as I continue to grow as a game developer. Thank you for visiting!
