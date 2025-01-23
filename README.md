@@ -6,9 +6,9 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 
 ## Skills and Tools
 - **Game Engine**: ![Unreal Engine](https://skillicons.dev/icons?i=unreal,godot,unity),
-- **Programming**: ![C++](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev),
-- **Development Enviorments**: ![Unreal Engine](https://skillicons.dev/icons?i=rider),
-- **Version Control**: ![Unreal Engine](https://skillicons.dev/icons?i=github,visualstudio,vscode),
+- **Programming**: ![C++](https://skillicons.dev/icons?i=cpp,cs),
+- **Development Enviorments**: ![Unreal Engine](https://skillicons.dev/icons?i=rider,visualstudio,vscode),
+- **Version Control**: ![Unreal Engine](https://skillicons.dev/icons?i=github),
 - **Other**: Gameplay mechanics, game design, script writing
 
 ---
