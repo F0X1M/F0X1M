@@ -10,9 +10,9 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 - **Development Enviorments**: ![Unreal Engine](https://skillicons.dev/icons?i=rider,visualstudio,vscode)
 - **Version Control**: ![Github](https://skillicons.dev/icons?i=github)
   <p align="center">
-    <h2>**Version Control**</h2>
+    <h2>Version Control</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 - **Other**: Gameplay mechanics, game design, script writing
