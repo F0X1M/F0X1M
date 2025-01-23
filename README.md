@@ -7,8 +7,8 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 ## Skills and Tools
 - **Game Engine**: Unreal Engine (Blueprints and C++)  
 - **Programming**: C++ (intermediate level),  
-- **Version Control**: Git, Plastic
-- **Other**: Gameplay mechanics, script writing, Game design
+- **Version Control**: Git, Plastic SCM, Perforce, Diversion,
+- **Other**: Gameplay mechanics, game design, script writing,
 
 ---
 
