@@ -8,7 +8,7 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 - **Game Engine**: ![Unreal Engine](https://skillicons.dev/icons?i=unreal,godot,unity)
 - **Programming**: ![C++](https://skillicons.dev/icons?i=cpp,cs)
 - **Development Enviorments**: ![Unreal Engine](https://skillicons.dev/icons?i=rider,visualstudio,vscode)
-- **Version Control**: ![Github](https://skillicons.dev/icons?i=github) ![PlasticSCM]((https://iconduck.com/icons/27803/plastic-scm?shared))
+- **Version Control**: ![Github](https://skillicons.dev/icons?i=github) ![PlasticSCM](https://iconduck.com/icons/27803/plastic-scm?shared)
 - **Other**: Gameplay mechanics, game design, script writing
 
 ---
