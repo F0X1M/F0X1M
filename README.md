@@ -5,7 +5,7 @@ Hello, I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine
 ---
 
 ## Skills and Tools
-- **Game Engine**: Unreal Engine (Blueprints and C++)  
+- **Game Engine**: ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white) Unreal Engine (Blueprints and C++)  
 - **Programming**: [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) C++ (intermediate level),  
 - **Version Control**: Git, Plastic SCM, Perforce, Diversion,
 - **Other**: Gameplay mechanics, game design, script writing,
