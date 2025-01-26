@@ -1,6 +1,6 @@
 # Hi👋
 
-I'm **[Hubert]**, a junior game developer specializing in **Unreal Engine**. I focus on creating small gameplay projects, improving my skills in C++ and Blueprints, and experimenting with level design and rendering. I’m excited about learning more advanced concepts and contributing to engaging game experiences.
+I'm **Hubert**, a junior game developer specializing in **Unreal Engine**. I focus on creating small gameplay projects, improving my skills in C++ and Blueprints, and experimenting with level design and rendering. I’m excited about learning more advanced concepts and contributing to engaging game experiences.
 
 ---
 
